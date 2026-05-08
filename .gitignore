@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.csv
+*.xlsx
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
